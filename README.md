@@ -4,7 +4,6 @@
 💡 Former AR Creator & Illustrator | Now learning to build websites and web apps using HTML, CSS & JavaScript  
 🚀 I enjoy building things that not only look good but also work well
 
----
 
 ## 👩‍💻 Currently Learning
 
@@ -13,7 +12,6 @@
 - Git & GitHub
 - React (coming soon!)
 
----
 
 ## 🛠️ What I Bring
 
@@ -22,7 +20,6 @@
 - Project management skills from creative freelancing & client collaboration  
 - Problem-solving mindset & constant learner 💪
 
----
 
 ## 📌 Projects Coming Soon
 
@@ -34,6 +31,5 @@ I’m currently working on:
 
 Stay tuned — I’ll update as I go! ✨
 
----
 
 📫 Let’s connect: [LinkedIn](https://www.linkedin.com/in/kolonatalie/)
