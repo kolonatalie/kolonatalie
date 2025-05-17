@@ -1,4 +1,4 @@
-# 👋 Hi there, I’m Natalia!
+#  Hi there, I’m Natalia!
 
 🎨 Transitioning from Design to Code  
 💡 Former AR Creator & Illustrator | Now learning to build websites and web apps using HTML, CSS & JavaScript  
@@ -21,15 +21,13 @@
 - Problem-solving mindset & constant learner 💪
 
 
-## 📌 Projects Coming Soon
+## 📌 I’m currently working on:
 
-I’m currently working on:
-
-- A responsive portfolio website (HTML + CSS + JS)  
-- A mini interactive quiz app  
+- A responsive [portfolio website](https://www.linkedin.com/in/kolonatalie/) (HTML + CSS + JS)  
+- **[Collection](https://github.com/kolonatalie/frontend-practice-projects)** of beginner-friendly web development projects.
 - A few landing page challenges
 
-Stay tuned — I’ll update as I go! ✨
 
+## 📫 Let’s connect:
 
-📫 Let’s connect: [LinkedIn](https://www.linkedin.com/in/kolonatalie/)
+### [LinkedIn](https://www.linkedin.com/in/kolonatalie/)
