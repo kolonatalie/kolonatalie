@@ -1,17 +1,24 @@
 #  Hi there, I’m Natalia!
 
-🎨 Transitioning from Design to Code  
-💡 Former AR Creator & Illustrator | Now learning to build websites and web apps using HTML, CSS & JavaScript  
-🚀 I enjoy building things that not only look good but also work well
+**Designer turned Developer**  
+Former AR Creator & Illustrator → Now learning to build websites & web apps with **HTML, CSS & JavaScript**  
+I enjoy building things that not only *look good* but also *work well*
 
 
-## Currently Learning
+## Currently Learning & Building
+I'm diving into frontend development through hands-on practice and real-world challenges.  
+Right now, I’m focusing on:
 
 - HTML, CSS, JavaScript
-- Responsive Web Design
-- Git & GitHub
+- A responsive [portfolio website](https://kolonatalie.github.io/portfolio/) (HTML + CSS + JS)
+- **[Collection](https://github.com/kolonatalie/frontend-practice-projects)** of beginner-friendly web development projects.
 - React (coming soon!)
 
+## 🔥 Codewars Progress
+
+[![Codewars Badge](https://www.codewars.com/users/kolonatalie/badges/large?theme=light)](https://www.codewars.com/users/kolonatalie)
+
+> Just ranked up to **6 Kyu** — solving coding challenges daily to sharpen my JS logic!
 
 ## What I Bring
 
@@ -21,13 +28,7 @@
 - Problem-solving mindset & constant learner
 
 
-## I’m currently working on:
-
-- A responsive [portfolio website](https://kolonatalie.github.io/portfolio/) (HTML + CSS + JS)  
-- **[Collection](https://github.com/kolonatalie/frontend-practice-projects)** of beginner-friendly web development projects.
-- A few landing page challenges
-
-
 ## 📫 Let’s connect:
 
 ### [LinkedIn](https://www.linkedin.com/in/kolonatalie/)
+### [Bluesky](https://bsky.app/profile/kolonatalie.bsky.social)
