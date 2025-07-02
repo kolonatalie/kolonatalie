@@ -5,9 +5,7 @@ Former AR Creator & Illustrator → Now learning to build websites & web apps wi
 I enjoy building things that not only *look good* but also *work well*
 
 
-## Currently Learning & Building
-I'm diving into frontend development through hands-on practice and real-world challenges.  
-Right now, I’m focusing on:
+## Currently Focusing On
 
 - HTML, CSS, JavaScript
 - A responsive [portfolio website](https://kolonatalie.github.io/portfolio/) (HTML + CSS + JS)
