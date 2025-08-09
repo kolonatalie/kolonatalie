@@ -4,10 +4,6 @@
 Former AR Creator & Illustrator → Now learning to build websites & web apps with **HTML, CSS & JavaScript**  
 I enjoy building things that not only *look good* but also *work well*
 
-[LinkedIn](https://www.linkedin.com/in/kolonatalie/) •
-[Mastodon](https://mastodon.social/@kolonatalie) •
-[Bluesky](https://bsky.app/profile/kolonatalie.bsky.social)
-
 ## Currently Focusing On
 
 > - HTML, CSS, JavaScript
