@@ -7,9 +7,9 @@ I enjoy building things that not only *look good* but also *work well*
 ## Currently Focusing On
 
 > - A responsive **[portfolio website](https://kolonatalie.github.io/portfolio/)** (HTML + CSS + JavaScript)
+> - Classic Snake Game • **[Play here](https://kolonatalie.github.io/snake/)**
 > - Collection of **beginner-friendly** **[web development projects](https://github.com/kolonatalie/frontend-practice-projects)**.
 > - Pastel Gradient Generator – 2 & 3 Color Background • **[Play here](https://kolonatalie.github.io/pastel-gradient-generator/)**
-> - *I run [#CantDoYetButTrying](https://github.com/kolonatalie/cant-do-yet-but-trying), a metaphor‑based learning series for frontend dev concepts.*
 
 ### 🔥 Codewars Progress
 
