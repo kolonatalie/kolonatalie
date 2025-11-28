@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmtodHhhZ2Nrc2ZyOXo5MzRhMmZxcGpha3J6cjIzYjNxanYwZGtvaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BztG2ZlPnfbqa0dPiD/giphy.gif" width="800" height="300"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmtodHhhZ2Nrc2ZyOXo5MzRhMmZxcGpha3J6cjIzYjNxanYwZGtvaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BztG2ZlPnfbqa0dPiD/giphy.gif" width="800" height="250"/>
   <h1>Hi, I'm Natalie! (kolonatalie)</h1>
   <h2>Junior Frontend Developer | Visual Engineering</h2>
   <p>
@@ -29,19 +29,17 @@
 1. A responsive **[portfolio website](https://kolonatalie.github.io/portfolio/)** 
   (HTML + CSS + JavaScript)
 2. **Classic Snake Game** (Vanilla JS) • A complete, functional game.
-   **[Play here](https://kolonatalie.github.io/snake/)**
+   **[Play](https://kolonatalie.github.io/snake/)**
 3. **Pastel Gradient Generator** • A simple utility showcasing 2 & 3 Color Background
-  **[Play here](https://kolonatalie.github.io/pastel-gradient-generator/)**
+  **[Play](https://kolonatalie.github.io/pastel-gradient-generator/)**
 
 
-## 📣 My Public Learning Ecosystem
+### 🤍 My Public Learning Ecosystem
 * **FRONTEND from scratch** — **[Discord server](https://discord.gg/prqvsDRdNk)**
-  * I launched a structured Discord server for disciplined developers focused on the building production-ready code & help each other land that first role. I share vetted resources, clean code insights, articles & tutorials in React/TS, Web Animation, and CSS Architecture.
-
-* **Recent Blog Posts**
-  * <!-- BLOG-POST-LIST:START -->
-    <!-- BLOG-POST-LIST:END -->
-
+  * I launched a structured community hub for disciplined developers focused on the building production-ready code & help each other land that first role. I share vetted resources, clean code insights, articles & tutorials in React/TS, Web Animation, and CSS Architecture.
+* Repository with **beginner-friendly** **[web development projects](https://github.com/kolonatalie/frontend-practice-projects)**.
+* **Blog** — Documenting technical journey. 
+  * **[Recent posts](https://dev.to/kolonatalie)**
 
 
 ### What I Bring to a Team:
