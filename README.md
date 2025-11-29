@@ -19,30 +19,35 @@
 </div>
 
 ---
+
+## 🟣 Key Projects
+* ➜  A responsive **[personal portfolio website](https://kolonatalie.github.io/portfolio/)** 
+  (HTML5 | CSS3 | JavaScript)
+* ➜  **Classic Snake Game** (Vanilla JS) • A complete, functional game.
+   **[Play Online](https://kolonatalie.github.io/snake/)**
+* ➜  **Pastel Gradient Generator** • A simple utility showcasing 2 & 3 Color Background
+  **[Play Online](https://kolonatalie.github.io/pastel-gradient-generator/)**
+   
+---
+   
 ### ![Currently Focused On Badge](https://img.shields.io/badge/Currently_Focused_On:-C68CFF?style=for-the-badge&logoColor=white)
  * Mastering React, TypeScript, and architectural patterns.
  * Web Animation & 3D Implementation *(WebGL, Three.js)*.
  * Clean Code Principles. The best code is clean, but the coolest code is visual.
+
 ---
-   
-## 🟣 Key Projects
-1. A responsive **[portfolio website](https://kolonatalie.github.io/portfolio/)** 
-  (HTML + CSS + JavaScript)
-2. **Classic Snake Game** (Vanilla JS) • A complete, functional game.
-   **[Play](https://kolonatalie.github.io/snake/)**
-3. **Pastel Gradient Generator** • A simple utility showcasing 2 & 3 Color Background
-  **[Play](https://kolonatalie.github.io/pastel-gradient-generator/)**
 
+## 🔘 Community & Learning Ecosystem
+* **⚫️ Frontend Practice Projects (Portfolio Index)**
+  > * **[The central repository](https://github.com/kolonatalie/frontend-practice-projects)** showcasing my journey from core Vanilla JS/CSS fundamentals to complex component implementation.
+* **📢 FRONTEND from scratch — Community Hub**
+  > * I launched this **[structured Discord server](https://discord.gg/prqvsDRdNk)** for disciplined developers focused on building production-ready code & help each other land that first role. I share vetted resources, clean code insights, articles & tutorials in React/TS, Web Animation, and CSS Architecture.
+* **✔️ Technical Blog**
+  > * Documenting my technical journey, challenges, and architectural insights. **[Recent Posts](https://dev.to/kolonatalie)**
 
-### 🤍 My Public Learning Ecosystem
-* **FRONTEND from scratch** — **[Discord server](https://discord.gg/prqvsDRdNk)**
-  * I launched a structured community hub for disciplined developers focused on the building production-ready code & help each other land that first role. I share vetted resources, clean code insights, articles & tutorials in React/TS, Web Animation, and CSS Architecture.
-* Repository with **beginner-friendly** **[web development projects](https://github.com/kolonatalie/frontend-practice-projects)**.
-* **Blog** — Documenting technical journey. 
-  * **[Recent posts](https://dev.to/kolonatalie)**
+---
 
-
-### What I Bring to a Team:
+## 🔮 What I Bring to a Team:
 - Strong eye for detail, user flow, and design thinking directly from 6+ years of AR/3D experience.
 - Project management skills from creative freelancing & client collaboration  
 - Problem-solving mindset & constant learner
