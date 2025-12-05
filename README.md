@@ -21,19 +21,19 @@
 ---
 
 ## 🟣 Key Projects
+* ➜  **Modular Sass & Vanilla JS E-commerce Storefront** • Responsive site featuring dynamic product rendering and Shopping Cart logic via Local Storage.
+  **[Live Demo](https://kolonatalie.github.io/sass-vanilla-js-ecommerce-site/)**
 * ➜  A responsive **[personal portfolio website](https://kolonatalie.github.io/portfolio/)** 
   (HTML5 | CSS3 | JavaScript)
 * ➜  **Classic Snake Game** (Vanilla JS) • A complete, functional game.
    **[Play Online](https://kolonatalie.github.io/snake/)**
-* ➜  **Pastel Gradient Generator** • A simple utility showcasing 2 & 3 Color Background
-  **[Play Online](https://kolonatalie.github.io/pastel-gradient-generator/)**
    
 ---
    
 ### ![Currently Focused On Badge](https://img.shields.io/badge/Currently_Focused_On:-C68CFF?style=for-the-badge&logoColor=white)
- * Mastering React, TypeScript, and architectural patterns.
- * Web Animation & 3D Implementation *(WebGL, Three.js)*.
- * Clean Code Principles. The best code is clean, but the coolest code is visual.
+ * Mastering **React**, **TypeScript**, and architectural patterns.
+ * Web Animation & 3D Implementation ***(WebGL, Three.js)***.
+ * **Clean Code** Principles. The best code is clean, but the coolest code is visual.
 
 ---
 
