@@ -21,8 +21,7 @@
 ---
 
 ## 🟣 Key Projects
-* ➜  **Modular Sass & Vanilla JS E-commerce Storefront** • Responsive site featuring dynamic product rendering and Shopping Cart logic via Local Storage.
-  **[Live Demo](https://kolonatalie.github.io/sass-vanilla-js-ecommerce-site/)**
+* ➜  **Modular Sass & Vanilla JS E-commerce Storefront** • **[Live Demo](https://kolonatalie.github.io/sass-vanilla-js-ecommerce-site/)** • Responsive site featuring dynamic product rendering and Shopping Cart logic via Local Storage.
 * ➜  A responsive **[personal portfolio website](https://kolonatalie.github.io/portfolio/)** 
   (HTML5 | CSS3 | JavaScript)
 * ➜  **Classic Snake Game** (Vanilla JS) • A complete, functional game.
