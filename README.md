@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmtodHhhZ2Nrc2ZyOXo5MzRhMmZxcGpha3J6cjIzYjNxanYwZGtvaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BztG2ZlPnfbqa0dPiD/giphy.gif" width="800" height="250"/>
-  <h1>Hi, I'm Natalie! (kolonatalie)</h1>
-  <h2>Junior Frontend Developer | Visual Engineering</h2>
+  <h1>Hi, <strong>I'm Natalie</strong>! <i>(kolonatalie)</i></h1>
+  <h2><strong>Junior Frontend Developer</strong> | Visual Engineering</h2>
   <p>
     I'm a career-switcher blending 6+ years of AR development/Visual Design with web development. <br> Focused on building clean, performant, and visually engaging web applications using React, TypeScript, and modern CSS architecture.
   </p>
@@ -21,7 +21,7 @@
 
 ---
 
-## 🟣 Key Projects
+## 🟣 **Key Projects**
 * ➜  **Modular Sass & Vanilla JS E-commerce Storefront** • **[Live Demo](https://kolonatalie.github.io/sass-vanilla-js-ecommerce-site/)** • Responsive site featuring dynamic product rendering and Shopping Cart logic via Local Storage.
 * ➜  A responsive **[personal portfolio website](https://kolonatalie.github.io/portfolio/)** 
   (HTML5 | CSS3 | JavaScript)
@@ -32,17 +32,17 @@
    
 ### ![Currently Focused On Badge](https://img.shields.io/badge/Currently_Focused_On:-C68CFF?style=for-the-badge&logoColor=white)
  * Mastering **React**, **TypeScript**, and architectural patterns.
- * Web Animation & 3D Implementation ***(WebGL, Three.js)***.
+ * Web Animation & 3D Implementation ***(GSAP, WebGL, Three.js)***.
  * **Clean Code** Principles. The best code is clean, but the coolest code is visual.
 
 ---
 
-## 🔘 Community & Learning Ecosystem
-* **⚫️ Frontend Practice Projects (Portfolio Index)**
+## 🔘 **Community & Learning Ecosystem**
+* ### **⚫️ Frontend Practice Projects** (Portfolio Index)
   > * **[The central repository](https://github.com/kolonatalie/frontend-practice-projects)** showcasing my journey from core Vanilla JS/CSS fundamentals to complex component implementation.
-* **📢 FRONTEND from scratch — Community Hub**
+* ### **📢 FRONTEND from scratch** — Community Hub
   > * I launched this **[structured Discord server](https://discord.gg/prqvsDRdNk)** for disciplined developers focused on building production-ready code & help each other land that first role. I share vetted resources, clean code insights, articles & tutorials in React/TS, Web Animation, and CSS Architecture.
-* **✔️ Technical Blog**
+* ### **✔️ Technical Blog**
   > * Documenting my technical journey, challenges, and architectural insights. **[Recent Posts](https://dev.to/kolonatalie)**
 
 ---
@@ -55,14 +55,16 @@
 ---
 
 <div id="footer" align="center">
-  <h3> Connect with me</h3>
+  <h3> <strong>Connect with me</strong></h3>
   <p>I’m actively seeking my first Junior role</p>
   <div>
     <a href="https://www.linkedin.com/in/kolonatalie/" target="blank_"><img align="center" src="https://img.shields.io/badge/LinkedIn-563D6F?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /></a>
     <a href="https://discord.gg/prqvsDRdNk" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-8A62B3?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge" /></a>
     <a href="https://kolonatalie.github.io/portfolio/" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-C68CFF?style=for-the-badge&logo=headspace&logoColor=white" alt="Portfolio/Website Badge" /></a>
-    <a href="https://mastodon.social/@kolonatalie" target="blank"><img align="center" src="https://img.shields.io/badge/Mastodon-A575D4?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon BadgeMastodon Badge" /></a>
-    <a href="https://bsky.app/profile/kolonatalie.bsky.social" target="blank"><img align="center" src="https://img.shields.io/badge/Bluesky-704F91?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky Badge" /></a><br>
+    <a href="https://x.com/dev_kolonatalie" target="blank"><img align="center" src="https://img.shields.io/badge/X-C575F4?style=for-the-badge&logo=x&logoColor=white" alt="X Badge" /></a>
+    <a href="https://bsky.app/profile/kolonatalie.bsky.social" target="blank"><img align="center" src="https://img.shields.io/badge/Bluesky-A575D4?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky Badge" /></a>
+    <a href="https://mastodon.social/@kolonatalie" target="blank"><img align="center" src="https://img.shields.io/badge/Mastodon-704F91?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon BadgeMastodon Badge" /></a>
+    <br>
     <br>
     <a href="https://www.codewars.com/users/kolonatalie" target="blank"><img align="center" src="https://www.codewars.com/users/kolonatalie/badges/small?theme=light" alt="Codewars Badge" /></a>
   </div>
