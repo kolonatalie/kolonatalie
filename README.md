@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmtodHhhZ2Nrc2ZyOXo5MzRhMmZxcGpha3J6cjIzYjNxanYwZGtvaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BztG2ZlPnfbqa0dPiD/giphy.gif" width="800" height="250"/>
   <h1>Hi, <strong>I'm Natalie</strong>! <i>(kolonatalie)</i></h1>
-  <h2><strong>Junior Frontend Developer</strong> | Visual Engineering</h2>
+  <h2><strong>Junior Frontend Developer</strong> | Web Animation Focus</h2>
   <p>
     I'm a career-switcher blending 6+ years of AR development/Visual Design with web development. <br> Focused on building clean, performant, and visually engaging web applications using React, TypeScript, and modern CSS architecture.
   </p>
