@@ -3,7 +3,7 @@
   <h1>Hi, <strong>I'm Natalie</strong>! <i>(kolonatalie)</i></h1>
   <h2><strong>Junior Frontend Developer</strong> | Web Animation Focus</h2>
   <p>
-    I'm a career-switcher blending 6+ years of AR development/Visual Design with web development. <br> Focused on building clean, performant, and visually engaging web applications using React, TypeScript, and modern CSS architecture.
+    I'm a career-switcher blending 6+ years of AR development/Visual Design with web development. <br> Focused on building clean, performant, and visually engaging web applications using React, TypeScript, and GSAP.
   </p>
 </div>
 <div align="center">
