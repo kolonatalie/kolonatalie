@@ -3,7 +3,7 @@
   <h1>Hi, <strong>I'm Natalie</strong>! <i>(kolonatalie)</i></h1>
   <h2><strong>Junior Frontend Developer</strong> | Web Animation Focus</h2>
   <p>
-    I'm a career-switcher blending 6+ years of AR development/Visual Design with web development. <br> Focused on building clean, performant, and visually engaging web applications using React, TypeScript, and GSAP.
+    I'm a career-switcher blending 6+ years of AR development/Visual Design with web development. <br> Focused on building clean, performant, and visually engaging web applications using <strong><i>React</i></strong>, <strong><i>TypeScript</i></strong>, and <strong><i>GSAP</i></strong>.
   </p>
 </div>
 <div align="center">
@@ -35,23 +35,17 @@
    
 ---
    
-### ![Currently Focused On Badge](https://img.shields.io/badge/Currently_Focused_On:-C68CFF?style=for-the-badge&logoColor=white)
- * Mastering **React**, **TypeScript**, and architectural patterns.
- * Web Animation & 3D Implementation ***(GSAP, WebGL, Three.js)***.
- * **Clean Code** Principles.
+### ![Knowledge Hub Badge](https://img.shields.io/badge/Knowledge_Hub-C68CFF?style=for-the-badge&logoColor=white)
 
----
-
-## 🔘 **Knowledge Hub**
 * ### **⚫️ Frontend Practice Projects** (Portfolio Index)
-  > * **[The central repository](https://github.com/kolonatalie/frontend-practice-projects)** showcasing my journey from core Vanilla JS/CSS fundamentals to complex component implementation.
+  **[The central repository](https://github.com/kolonatalie/frontend-practice-projects)** showcasing my journey from core Vanilla JS/CSS fundamentals to complex component implementation.
 
 * ### **✔️ Technical Blog**
-  > * Documenting my technical journey, challenges, and architectural insights. **[Recent Posts](https://dev.to/kolonatalie)**
+  Documenting my technical journey, challenges, and architectural insights. **[Recent Posts](https://dev.to/kolonatalie)**
 
 ---
 
-## 🔮 What I Bring to a Team:
+## 🔘 What I Bring to a Team:
 - Strong eye for detail, user flow, and deep understanding of spatial UI
 - Project management skills from creative freelancing & client collaboration  
 - Problem-solving mindset & constant learner
