@@ -8,47 +8,51 @@
 </div>
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" **alt="TypeScript" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"  title="sass" alt="sass" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg" title="ThreeJS" **alt="ThreeJS" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg" title="ThreeJS" alt="ThreeJS" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/kolonatalie/portfolio/d7632a23d7fd57070fcd1a824aa9109d24242b8a/assets/images/GSAP_2023.svg" title="GSAP" alt="GSAP"  width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
 
 ---
 
+## ⚫️ **Featured Developer Tool**
+* ### [React + GSAP + TS Starter Kit](https://github.com/kolonatalie/react-ts-gsap-starter-kit)
+  A professional-grade boilerplate for high-end creative development. Features ESLint 9, SASS 7-1 architecture, OKLCH color system, and optimized GSAP animation lifecycles.
+
+---
+
 ## 🟣 **Key Projects**
-* ➜  **Modular Sass & Vanilla JS E-commerce Storefront** • **[Live Demo](https://kolonatalie.github.io/sass-vanilla-js-ecommerce-site/)** • Responsive site featuring dynamic product rendering and Shopping Cart logic via Local Storage.
-* ➜  A responsive **[personal portfolio website](https://kolonatalie.github.io/portfolio/)** 
-  (HTML5 | CSS3 | JavaScript)
-* ➜  **Classic Snake Game** (Vanilla JS) • A complete, functional game.
-   **[Play Online](https://kolonatalie.github.io/snake/)**
+* ➜ **[Personal Portfolio](https://kolonatalie.github.io/portfolio/)** • 
+  (HTML5 | CSS3 | JavaScript) • My digital home showcasing visual craft and clean code.
+* ➜  **[Modular E-commerce Storefront](https://kolonatalie.github.io/sass-vanilla-js-ecommerce-site/)** • (Vanilla JS | SASS) • Responsive site featuring dynamic product rendering and Shopping Cart logic via Local Storage.
+* ➜  **[Classic Snake Game](https://kolonatalie.github.io/snake/)** • (Vanilla JS) • A functional game engine built from scratch.
    
 ---
    
 ### ![Currently Focused On Badge](https://img.shields.io/badge/Currently_Focused_On:-C68CFF?style=for-the-badge&logoColor=white)
  * Mastering **React**, **TypeScript**, and architectural patterns.
  * Web Animation & 3D Implementation ***(GSAP, WebGL, Three.js)***.
- * **Clean Code** Principles. The best code is clean, but the coolest code is visual.
+ * **Clean Code** Principles.
 
 ---
 
-## 🔘 **Community & Learning Ecosystem**
+## 🔘 **Knowledge Hub**
 * ### **⚫️ Frontend Practice Projects** (Portfolio Index)
   > * **[The central repository](https://github.com/kolonatalie/frontend-practice-projects)** showcasing my journey from core Vanilla JS/CSS fundamentals to complex component implementation.
-* ### **📢 FRONTEND from scratch** — Community Hub
-  > * I launched this **[structured Discord server](https://discord.gg/prqvsDRdNk)** for disciplined developers focused on building production-ready code & help each other land that first role. I share vetted resources, clean code insights, articles & tutorials in React/TS, Web Animation, and CSS Architecture.
+
 * ### **✔️ Technical Blog**
   > * Documenting my technical journey, challenges, and architectural insights. **[Recent Posts](https://dev.to/kolonatalie)**
 
 ---
 
 ## 🔮 What I Bring to a Team:
-- Strong eye for detail, user flow, and design thinking directly from 6+ years of AR/3D experience.
+- Strong eye for detail, user flow, and deep understanding of spatial UI
 - Project management skills from creative freelancing & client collaboration  
 - Problem-solving mindset & constant learner
 
@@ -59,9 +63,8 @@
   <p>I’m actively seeking my first Junior role</p>
   <div>
     <a href="https://www.linkedin.com/in/kolonatalie/" target="blank_"><img align="center" src="https://img.shields.io/badge/LinkedIn-563D6F?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /></a>
-    <a href="https://discord.gg/prqvsDRdNk" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-8A62B3?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge" /></a>
-    <a href="https://kolonatalie.github.io/portfolio/" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-C68CFF?style=for-the-badge&logo=headspace&logoColor=white" alt="Portfolio/Website Badge" /></a>
-    <a href="https://x.com/dev_kolonatalie" target="blank"><img align="center" src="https://img.shields.io/badge/X-C575F4?style=for-the-badge&logo=x&logoColor=white" alt="X Badge" /></a>
+    <a href="https://kolonatalie.github.io/portfolio/" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-8A62B3?style=for-the-badge&logo=headspace&logoColor=white" alt="Portfolio/Website Badge" /></a>
+    <a href="https://x.com/dev_kolonatalie" target="blank"><img align="center" src="https://img.shields.io/badge/X-C68CFF?style=for-the-badge&logo=x&logoColor=white" alt="X Badge" /></a>
     <a href="https://bsky.app/profile/kolonatalie.bsky.social" target="blank"><img align="center" src="https://img.shields.io/badge/Bluesky-A575D4?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky Badge" /></a>
     <a href="https://mastodon.social/@kolonatalie" target="blank"><img align="center" src="https://img.shields.io/badge/Mastodon-704F91?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon BadgeMastodon Badge" /></a>
     <br>
