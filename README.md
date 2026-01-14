@@ -3,7 +3,7 @@
   <h1>Hi, <strong>I'm Natalie</strong>! <i>(kolonatalie)</i></h1>
   <h2><strong>Junior Frontend Developer</strong> | Web Animation Focus</h2>
   <p>
-    I'm a career-switcher blending 6+ years of AR development/Visual Design with web development. <br> Focused on building clean, performant, and visually engaging web applications using <strong><i>React</i></strong>, <strong><i>TypeScript</i></strong>, and <strong><i>GSAP</i></strong>.
+    Leveraging 6+ years of AR development and Visual Design to build high-performance, animation-rich web applications.<br> Specialized in <strong><i>React</i></strong>, <strong><i>TypeScript</i></strong>, and <strong><i>GSAP</i></strong>.
   </p>
 </div>
 <div align="center">
@@ -21,31 +21,28 @@
 
 ---
 
-## ⚫️ **Featured Developer Tool**
-* ### [React + GSAP + TS Starter Kit](https://github.com/kolonatalie/react-ts-gsap-starter-kit)
+## [React + GSAP + TS Starter Kit](https://github.com/kolonatalie/react-ts-gsap-starter-kit) **•** *Developer Tool*
   A professional-grade boilerplate for high-end creative development. Features ESLint 9, SASS 7-1 architecture, OKLCH color system, and optimized GSAP animation lifecycles.
 
 ---
 
-## 🟣 **Key Projects**
+## **Key Projects**
+* ➜ **[Frontend Practice Projects](https://github.com/kolonatalie/frontend-practice-projects)** • 
+  The central repository showcasing my journey from core Vanilla JS/CSS fundamentals to complex component implementation.
 * ➜ **[Personal Portfolio](https://kolonatalie.github.io/portfolio/)** • 
-  (HTML5 | CSS3 | JavaScript) • My digital home showcasing visual craft and clean code.
-* ➜  **[Modular E-commerce Storefront](https://kolonatalie.github.io/sass-vanilla-js-ecommerce-site/)** • (Vanilla JS | SASS) • Responsive site featuring dynamic product rendering and Shopping Cart logic via Local Storage.
-* ➜  **[Classic Snake Game](https://kolonatalie.github.io/snake/)** • (Vanilla JS) • A functional game engine built from scratch.
+  (HTML5 | CSS3 | JavaScript) • My digital home showcasing visual craft and clean code. • [Repo](https://github.com/kolonatalie/portfolio)
+* ➜  **[Modular E-commerce Storefront](https://kolonatalie.github.io/sass-vanilla-js-ecommerce-site/)** • (Vanilla JS | SASS) • Responsive site featuring dynamic product rendering and Shopping Cart logic via Local Storage. • [Repo](https://github.com/kolonatalie/sass-vanilla-js-ecommerce-site)
    
 ---
    
-### ![Knowledge Hub Badge](https://img.shields.io/badge/Knowledge_Hub-C68CFF?style=for-the-badge&logoColor=white)
+## **Recent Blog Posts**
 
-* ### **⚫️ Frontend Practice Projects** (Portfolio Index)
-  **[The central repository](https://github.com/kolonatalie/frontend-practice-projects)** showcasing my journey from core Vanilla JS/CSS fundamentals to complex component implementation.
-
-* ### **✔️ Technical Blog**
-  Documenting my technical journey, challenges, and architectural insights. **[Recent Posts](https://dev.to/kolonatalie)**
+* [High-Performance Web Animation: GSAP, WebGL, and the Secret to 60fps](https://dev.to/kolonatalie/high-performance-web-animation-gsap-webgl-and-the-secret-to-60fps-2l1g)
+* [Pure CSS Shimmer Effect: Recreate a 3D-Inspired Light Swipe](https://dev.to/kolonatalie/hello-world-27l0)
 
 ---
 
-## 🔘 What I Bring to a Team:
+## What I Bring to a Team:
 - Strong eye for detail, user flow, and deep understanding of spatial UI
 - Project management skills from creative freelancing & client collaboration  
 - Problem-solving mindset & constant learner
@@ -53,8 +50,8 @@
 ---
 
 <div id="footer" align="center">
-  <h3> <strong>Connect with me</strong></h3>
-  <p>I’m actively seeking my first Junior role</p>
+  <h3><strong>I’m actively seeking my first Junior role</strong></h3>
+  <p>Connect with me</p>
   <div>
     <a href="https://www.linkedin.com/in/kolonatalie/" target="blank_"><img align="center" src="https://img.shields.io/badge/LinkedIn-563D6F?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /></a>
     <a href="https://kolonatalie.github.io/portfolio/" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-8A62B3?style=for-the-badge&logo=headspace&logoColor=white" alt="Portfolio/Website Badge" /></a>
