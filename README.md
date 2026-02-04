@@ -1,9 +1,9 @@
 <div id="header" align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmtodHhhZ2Nrc2ZyOXo5MzRhMmZxcGpha3J6cjIzYjNxanYwZGtvaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BztG2ZlPnfbqa0dPiD/giphy.gif" width="800" height="250"/>
   <h1>Hi, <strong>I'm Natalie</strong>! <i>(kolonatalie)</i></h1>
-  <h2><strong>Junior Frontend Developer</strong> | Web Animation Focus</h2>
+  <h2><strong>Creative Frontend Developer</strong> | Three.js, WebGL & Animations</h2>
   <p>
-    Leveraging 6+ years of AR development and Visual Design to build high-performance, animation-rich web applications.<br> Specialized in <strong><i>React</i></strong>, <strong><i>TypeScript</i></strong>, and <strong><i>GSAP</i></strong>.
+    Leveraging 6+ years of AR development and Visual Design to build high-performance, animation-rich web applications.<br> Also specialized in <strong><i>React</i></strong>, <strong><i>TypeScript</i></strong>, and <strong><i>GSAP</i></strong>.
   </p>
 </div>
 <div align="center">
@@ -21,12 +21,13 @@
 
 ---
 
-## [React + GSAP + TS Starter Kit](https://github.com/kolonatalie/react-ts-gsap-starter-kit) **•** *Developer Tool*
-  A professional-grade boilerplate for high-end creative development. Features ESLint 9, SASS 7-1 architecture, OKLCH color system, and optimized GSAP animation lifecycles.
+## [3D Sofa Configurator](https://3d-sofa-configurator.vercel.app)
+**[Repository](https://github.com/kolonatalie/3d-product-configurator)** • A high-performance, photorealistic 3D product customizer built with **React, Three.js** and **TS**. It features a modular 3D engine, PBR materials, and real-time performance optimization.
 
 ---
 
 ## **Key Projects**
+* ➜ **[React + GSAP + TS Starter Kit](https://github.com/kolonatalie/react-ts-gsap-starter-kit)** **•** *Developer Tool* **•** A professional-grade boilerplate for high-end creative development. Features ESLint 9, SASS 7-1 architecture, OKLCH color system, and optimized GSAP animation lifecycles.
 * ➜ **[Frontend Practice Projects](https://github.com/kolonatalie/frontend-practice-projects)** • 
   The central repository showcasing my journey from core Vanilla JS/CSS fundamentals to complex component implementation.
 * ➜ **[Personal Portfolio](https://kolonatalie.github.io/portfolio/)** • 
@@ -50,7 +51,7 @@
 ---
 
 <div id="footer" align="center">
-  <h3><strong>I’m actively seeking my first Junior role</strong></h3>
+  <h3><strong>I’m actively seeking my first Junior Frontend / Creative Developer role.</strong></h3>
   <p>Connect with me</p>
   <div>
     <a href="https://www.linkedin.com/in/kolonatalie/" target="blank_"><img align="center" src="https://img.shields.io/badge/LinkedIn-563D6F?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /></a>
