@@ -27,9 +27,9 @@
 ---
 
 ## **Key Projects**
-* **[React + GSAP + TS Starter Kit](https://github.com/kolonatalie/react-ts-gsap-starter-kit)** **•** *Developer Tool* **•** A professional-grade boilerplate for high-end creative development. Features ESLint 9, SASS 7-1 architecture, OKLCH color system, and optimized GSAP animation lifecycles.
 * **[Frontend & Creative Engineering Hub](https://github.com/kolonatalie/frontend-practice-projects)** • 
-  The central repository showcasing my journey from core Vanilla JS/CSS fundamentals to complex component implementation.
+  The central repository showcasing my journey from core Vanilla JS/CSS fundamentals to complex component implementation with a focus on Three.js, TypeScript, React, and GSAP.
+* **[React + GSAP + TS Starter Kit](https://github.com/kolonatalie/react-ts-gsap-starter-kit)** **•** *Developer Tool* **•** A professional-grade boilerplate for high-end creative development. Features ESLint 9, SASS 7-1 architecture, OKLCH color system, and optimized GSAP animation lifecycles.
 *  **[Personal Portfolio](https://kolonatalie.github.io/portfolio/)** • 
   (HTML5 | CSS3 | JavaScript) • My digital home showcasing visual craft and clean code. • *[Repository](https://github.com/kolonatalie/portfolio)*
 *  **[Modular E-commerce Storefront](https://kolonatalie.github.io/sass-vanilla-js-ecommerce-site/)** • (Vanilla JS | SASS) • Responsive site featuring dynamic product rendering and Shopping Cart logic via Local Storage. • *[Repository](https://github.com/kolonatalie/sass-vanilla-js-ecommerce-site)*
