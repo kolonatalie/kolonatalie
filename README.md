@@ -21,17 +21,13 @@
 
 ---
 
-## [3D Sofa Configurator](https://3d-sofa-configurator.vercel.app)
-*[Repository](https://github.com/kolonatalie/3d-product-configurator)* • A high-performance, photorealistic 3D product customizer built with **React, Three.js** and **TS**. It features a modular 3D engine, PBR materials, and real-time performance optimization.
-
----
-
 ## **Key Projects**
+*  **[Creative Developer Portfolio](https://kolonatalie.vercel.app)** • 
+  (React | TypeScript | GSAP) • My digital home showcasing visual craft and clean code. • *[Repository](https://github.com/kolonatalie/portfolio)*
+* **[3D Sofa Configurator](https://3d-sofa-configurator.vercel.app)**  • A high-performance, photorealistic 3D product customizer built with **React, Three.js** and **TS**. It features a modular 3D engine, PBR materials, and real-time performance optimization. •  *[Repository](https://github.com/kolonatalie/3d-product-configurator)* 
 * **[Frontend & Creative Engineering Hub](https://github.com/kolonatalie/frontend-practice-projects)** • 
   The central repository showcasing my journey from core Vanilla JS/CSS fundamentals to complex component implementation with a focus on Three.js, TypeScript, React, and GSAP.
 * **[React + GSAP + TS Starter Kit](https://github.com/kolonatalie/react-ts-gsap-starter-kit)** **•** *Developer Tool* **•** A professional-grade boilerplate for high-end creative development. Features ESLint 9, SASS 7-1 architecture, OKLCH color system, and optimized GSAP animation lifecycles.
-*  **[Personal Portfolio](https://kolonatalie.github.io/portfolio/)** • 
-  (HTML5 | CSS3 | JavaScript) • My digital home showcasing visual craft and clean code. • *[Repository](https://github.com/kolonatalie/portfolio)*
 *  **[Modular E-commerce Storefront](https://kolonatalie.github.io/sass-vanilla-js-ecommerce-site/)** • (Vanilla JS | SASS) • Responsive site featuring dynamic product rendering and Shopping Cart logic via Local Storage. • *[Repository](https://github.com/kolonatalie/sass-vanilla-js-ecommerce-site)*
    
 ---
