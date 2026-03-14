@@ -51,7 +51,7 @@
   <p>Connect with me</p>
   <div>
     <a href="https://www.linkedin.com/in/kolonatalie/" target="blank_"><img align="center" src="https://img.shields.io/badge/LinkedIn-563D6F?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /></a>
-    <a href="https://kolonatalie.github.io/portfolio/" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-8A62B3?style=for-the-badge&logo=headspace&logoColor=white" alt="Portfolio/Website Badge" /></a>
+    <a href="https://kolonatalie.vercel.app" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-8A62B3?style=for-the-badge&logo=headspace&logoColor=white" alt="Portfolio/Website Badge" /></a>
     <a href="https://x.com/dev_kolonatalie" target="blank"><img align="center" src="https://img.shields.io/badge/X-C68CFF?style=for-the-badge&logo=x&logoColor=white" alt="X Badge" /></a>
     <a href="https://bsky.app/profile/kolonatalie.bsky.social" target="blank"><img align="center" src="https://img.shields.io/badge/Bluesky-A575D4?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky Badge" /></a>
     <a href="https://mastodon.social/@kolonatalie" target="blank"><img align="center" src="https://img.shields.io/badge/Mastodon-704F91?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon BadgeMastodon Badge" /></a>
