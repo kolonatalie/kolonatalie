@@ -6,7 +6,7 @@
     Leveraging 6+ years of AR development and Visual Design to build high-performance, animation-rich web applications.<br> Specialized in <strong><i>React</i></strong>, <strong><i>TypeScript</i></strong>, and <strong><i>GSAP</i></strong> as well.
   </p>
 </div>
-<div align="center">
+<div align="center" background="red">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/> 
@@ -25,6 +25,7 @@
 *  **[Creative Developer Portfolio](https://kolonatalie.vercel.app)** • 
   (React | TypeScript | GSAP | *[Repository](https://github.com/kolonatalie/portfolio)* ) • My digital home showcasing visual craft and clean code.
 * **[3D Sofa Configurator](https://3d-sofa-configurator.vercel.app)**  • A high-performance, photorealistic 3D product customizer built with **React, Three.js** and **TS**. It features a modular 3D engine, PBR materials, and real-time performance optimization. •  *[Repository](https://github.com/kolonatalie/3d-product-configurator)* 
+* **[Liquid Glass Experience](https://liquid-glass-experience.vercel.app)** • (Three.js | Rapier physics (WASM) | GSAP | *[Repository](https://github.com/kolonatalie/liquid-glass-experience)*  )  • Interactive 3D experience.
 * **[Frontend & Creative Engineering Hub](https://github.com/kolonatalie/frontend-practice-projects)** • 
   The central repository showcasing my journey from core Vanilla JS/CSS fundamentals to complex component implementation with a focus on Three.js, TypeScript, React, and GSAP.
 * **[React + GSAP + TS Starter Kit](https://github.com/kolonatalie/react-ts-gsap-starter-kit)** **•** *Developer Tool* **•** A professional-grade boilerplate for high-end creative development. Features ESLint 9, SASS 7-1 architecture, OKLCH color system, and optimized GSAP animation lifecycles.
@@ -47,7 +48,7 @@
 ---
 
 <div id="footer" align="center">
-  <h3><strong>I’m actively seeking my first Junior Frontend / Creative Developer role.</strong></h3>
+  <h3><strong>I’m actively seeking my first Frontend / Creative Developer role.</strong></h3>
   <p>Connect with me</p>
   <div>
     <a href="https://www.linkedin.com/in/kolonatalie/" target="blank_"><img align="center" src="https://img.shields.io/badge/LinkedIn-563D6F?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /></a>
