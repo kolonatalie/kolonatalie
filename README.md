@@ -15,17 +15,23 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"  title="sass" alt="sass" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg" title="ThreeJS" alt="ThreeJS" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/kolonatalie/portfolio/d7632a23d7fd57070fcd1a824aa9109d24242b8a/assets/images/GSAP_2023.svg" title="GSAP" alt="GSAP"  width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="VueJS" alt="VueJS" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" title="ViteJS" alt="ViteJS" width="40" height="40"/>
 </div>
 
 ---
-
-## **Key Projects**
+## **Featured**
+*  **[Vue 3 Parametric 3D Viewer](https://parametric-3d-viewer.vercel.app)** • 
+  (Vue 3 | Three.js | TypeScript | GSAP | *[Repository](https://github.com/kolonatalie/vue3-parametric-3D-viewer)* ) • A quick prototype to demonstrate Vue 3 reactivity integrated with a Three.js rendering engine.
 *  **[Creative Developer Portfolio](https://kolonatalie.vercel.app)** • 
   (React | TypeScript | GSAP | *[Repository](https://github.com/kolonatalie/portfolio)* ) • My digital home showcasing visual craft and clean code.
-* **[3D Sofa Configurator](https://3d-sofa-configurator.vercel.app)**  • A high-performance, photorealistic 3D product customizer built with **React, Three.js** and **TS**. It features a modular 3D engine, PBR materials, and real-time performance optimization. •  *[Repository](https://github.com/kolonatalie/3d-product-configurator)* 
 * **[Liquid Glass Experience](https://liquid-glass-experience.vercel.app)** • (Three.js | Rapier physics (WASM) | GSAP | *[Repository](https://github.com/kolonatalie/liquid-glass-experience)*  )  • Interactive 3D experience.
+---
+
+## **Key Projects**
+
+* **[3D Sofa Configurator](https://3d-sofa-configurator.vercel.app)**  • A high-performance, photorealistic 3D product customizer built with **React, Three.js** and **TS**. It features a modular 3D engine, PBR materials, and real-time performance optimization. •  *[Repository](https://github.com/kolonatalie/3d-product-configurator)*
 * **[Frontend & Creative Engineering Hub](https://github.com/kolonatalie/frontend-practice-projects)** • 
   The central repository showcasing my journey from core Vanilla JS/CSS fundamentals to complex component implementation with a focus on Three.js, TypeScript, React, and GSAP.
 * **[React + GSAP + TS Starter Kit](https://github.com/kolonatalie/react-ts-gsap-starter-kit)** **•** *Developer Tool* **•** A professional-grade boilerplate for high-end creative development. Features ESLint 9, SASS 7-1 architecture, OKLCH color system, and optimized GSAP animation lifecycles.
