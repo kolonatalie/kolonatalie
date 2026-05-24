@@ -22,16 +22,16 @@
 
 ---
 ## **Featured**
-*  **[Vue 3 Parametric 3D Viewer](https://parametric-3d-viewer.vercel.app)** • 
-  (Vue 3 | Three.js | TypeScript | GSAP | *[Repository](https://github.com/kolonatalie/vue3-parametric-3D-viewer)* ) • A quick prototype to demonstrate Vue 3 reactivity integrated with a Three.js rendering engine.
+* **[Liquid Glass Experience](https://liquid-glass-experience.vercel.app)** • (Three.js | Rapier physics (WASM) | GSAP | *[Repository](https://github.com/kolonatalie/liquid-glass-experience)*  )  • Interactive 3D experience.
 *  **[Creative Developer Portfolio](https://kolonatalie.vercel.app)** • 
   (React | TypeScript | GSAP | *[Repository](https://github.com/kolonatalie/portfolio)* ) • My digital home showcasing visual craft and clean code.
-* **[Liquid Glass Experience](https://liquid-glass-experience.vercel.app)** • (Three.js | Rapier physics (WASM) | GSAP | *[Repository](https://github.com/kolonatalie/liquid-glass-experience)*  )  • Interactive 3D experience.
+* **[3D Sofa Configurator](https://3d-sofa-configurator.vercel.app)**  • A high-performance, photorealistic 3D product customizer built with **React, Three.js** and **TS**. It features a modular 3D engine, PBR materials, and real-time performance optimization. •  *[Repository](https://github.com/kolonatalie/3d-product-configurator)*
 ---
 
 ## **Key Projects**
 
-* **[3D Sofa Configurator](https://3d-sofa-configurator.vercel.app)**  • A high-performance, photorealistic 3D product customizer built with **React, Three.js** and **TS**. It features a modular 3D engine, PBR materials, and real-time performance optimization. •  *[Repository](https://github.com/kolonatalie/3d-product-configurator)*
+* **[Vue 3 Parametric 3D Viewer](https://parametric-3d-viewer.vercel.app)** • 
+  (Vue 3 | Three.js | TypeScript | GSAP | *[Repository](https://github.com/kolonatalie/vue3-parametric-3D-viewer)* ) • A quick prototype to demonstrate Vue 3 reactivity integrated with a Three.js rendering engine.
 * **[Frontend & Creative Engineering Hub](https://github.com/kolonatalie/frontend-practice-projects)** • 
   The central repository showcasing my journey from core Vanilla JS/CSS fundamentals to complex component implementation with a focus on Three.js, TypeScript, React, and GSAP.
 * **[React + GSAP + TS Starter Kit](https://github.com/kolonatalie/react-ts-gsap-starter-kit)** **•** *Developer Tool* **•** A professional-grade boilerplate for high-end creative development. Features ESLint 9, SASS 7-1 architecture, OKLCH color system, and optimized GSAP animation lifecycles.
